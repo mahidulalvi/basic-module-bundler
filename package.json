@@ -1,0 +1,27 @@
+{
+  "name": "basic_module_bundler",
+  "version": "1.0.0",
+  "description": "This is a basic module bundler project for better understanding module bundling.ers\u001b[C",
+  "main": "bundler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mahidulalvi/basic-module-bundler.git"
+  },
+  "author": "Md Mahidul Haque Alvi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahidulalvi/basic-module-bundler/issues"
+  },
+  "homepage": "https://github.com/mahidulalvi/basic-module-bundler#readme",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-traverse": "^6.26.0",
+    "babylon": "^6.18.0"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0"
+  }
+}
